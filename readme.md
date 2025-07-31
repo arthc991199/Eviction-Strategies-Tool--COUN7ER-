@@ -1,9 +1,11 @@
 # 📘 Instrukcja: Jak korzystać z Eviction Strategies Tool od CISA
 
-**Eviction Strategies Tool** to darmowe narzędzie od amerykańskiej agencji **CISA**, stworzone w ramach frameworku **COUN7ER**.  
+**Eviction Strategies Tool** to darmowe narzędzie od amerykańskiej agencji **CISA**, stworzone w ramach frameworku **COUN7ER**.  Premiera 30.07.2025 r. https://www.cisa.gov/resources-tools/resources/eviction-strategies-tool
+
 Pomaga zespołom bezpieczeństwa, SOC oraz vCISO w **szybkim reagowaniu na incydenty** i **usuwaniu przeciwnika z zaatakowanego środowiska**.
 
 To **nie jest** narzędzie do wykrywania ataków – to **biblioteka gotowych działań (playbooków)**: co zrobić, gdy _coś się wydarzyło_ lub jak przygotować się wcześniej.
+
 
 🔗 Narzędzie online: https://www.cisa.gov/eviction-strategies-tool/review-playbook  
 📦 Repozytorium z przykładami: 
