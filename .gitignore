@@ -1,0 +1,27 @@
+
+# macOS
+.DS_Store
+
+# edytory
+.vscode/
+.idea/
+
+# systemowe
+Thumbs.db
+ehthumbs.db
+
+# logi
+*.log
+
+# systemy budowania
+node_modules/
+dist/
+build/
+
+# inne niepotrzebne
+*.swp
+*.bak
+
+.notatki_prywatne
+echo "/.notatki_prywatne/" >> .gitignore
+echo "notatki_prywatne/" >> .gitignore

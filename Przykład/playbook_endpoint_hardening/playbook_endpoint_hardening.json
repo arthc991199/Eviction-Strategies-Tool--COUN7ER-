@@ -1,0 +1,174 @@
+{
+    "dataset_id": "coun7er",
+    "dataset_version": "latest",
+    "title": "Comprehensive Endpoint & Organizational Hardening",
+    "template_used": "",
+    "version": 2,
+    "created": "2025-07-31T00:00:00Z",
+    "updated": "2025-07-31T00:00:00Z",
+    "spec_version": "2.0.0",
+    "tech_to_items": {
+        "T1566.001": {
+            "confidence": "confirmed",
+            "items": [
+                {
+                    "id": "CM0002",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0010",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0100",
+                    "version": "1.0"
+                }
+            ]
+        },
+        "T1059": {
+            "confidence": "confirmed",
+            "items": [
+                {
+                    "id": "CM0004",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0012",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0009",
+                    "version": "1.0"
+                }
+            ]
+        },
+        "T1200": {
+            "confidence": "confirmed",
+            "items": [
+                {
+                    "id": "CM0059",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0102",
+                    "version": "1.0"
+                }
+            ]
+        },
+        "T1078": {
+            "confidence": "confirmed",
+            "items": [
+                {
+                    "id": "CM0012",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0028",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0105",
+                    "version": "1.0"
+                }
+            ]
+        },
+        "T1486": {
+            "confidence": "confirmed",
+            "items": [
+                {
+                    "id": "CM0035",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0062",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0040",
+                    "version": "1.0"
+                }
+            ]
+        },
+        "T1021.001": {
+            "confidence": "confirmed",
+            "items": [
+                {
+                    "id": "CM0012",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0028",
+                    "version": "1.0"
+                }
+            ]
+        },
+        "T1204": {
+            "confidence": "confirmed",
+            "items": [
+                {
+                    "id": "CM0100",
+                    "version": "1.0"
+                }
+            ]
+        },
+        "T1087": {
+            "confidence": "confirmed",
+            "items": [
+                {
+                    "id": "CM0101",
+                    "version": "1.0"
+                }
+            ]
+        },
+        "T1005": {
+            "confidence": "confirmed",
+            "items": [
+                {
+                    "id": "CM0030",
+                    "version": "1.0"
+                }
+            ]
+        },
+        "T1490": {
+            "confidence": "confirmed",
+            "items": [
+                {
+                    "id": "CM0040",
+                    "version": "1.0"
+                }
+            ]
+        },
+        "T1555": {
+            "confidence": "confirmed",
+            "items": [
+                {
+                    "id": "CM0100",
+                    "version": "1.0"
+                }
+            ]
+        },
+        "T1562": {
+            "confidence": "confirmed",
+            "items": [
+                {
+                    "id": "CM0106",
+                    "version": "1.0"
+                }
+            ]
+        },
+        "T1071": {
+            "confidence": "confirmed",
+            "items": [
+                {
+                    "id": "CM0103",
+                    "version": "1.0"
+                }
+            ]
+        },
+        "unmapped": {
+            "confidence": "suspected",
+            "items": []
+        }
+    },
+    "ignored_items": []
+}

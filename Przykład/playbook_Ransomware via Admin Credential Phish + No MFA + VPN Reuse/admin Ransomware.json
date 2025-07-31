@@ -1,0 +1,46 @@
+{
+  "title": "Ransomware via Admin Credential Phish + No MFA + VPN Reuse",
+  "template_used": "",
+  "version": 1,
+  "created": "2025-07-30T00:00:00Z",
+  "updated": "2025-07-30T00:00:00Z",
+  "spec_version": "2.0.0",
+  "tech_to_items": {
+    "T1566.002": {
+      "confidence": "confirmed",
+      "items": [
+        { "id": "CM0002", "version": "1.0" }
+      ]
+    },
+    "T1078": {
+      "confidence": "confirmed",
+      "items": [
+        { "id": "CM0063", "version": "1.0" },
+        { "id": "CM0065", "version": "1.0" }
+      ]
+    },
+    "T1021.001": {
+      "confidence": "confirmed",
+      "items": [
+        { "id": "CM0065", "version": "1.0" }
+      ]
+    },
+    "T1486": {
+      "confidence": "confirmed",
+      "items": [
+        { "id": "CM0065", "version": "1.0" }
+      ]
+    },
+    "T1556.006": {
+      "confidence": "confirmed",
+      "items": []
+    },
+    "T1110.003": {
+      "confidence": "suspected",
+      "items": [
+        { "id": "CM0028", "version": "1.0" }
+      ]
+    }
+  },
+  "ignored_items": []
+}
