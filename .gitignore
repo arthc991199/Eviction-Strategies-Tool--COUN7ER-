@@ -22,6 +22,8 @@ build/
 *.swp
 *.bak
 
+notatki_prywatne/
+
 .notatki_prywatne
 echo "/.notatki_prywatne/" >> .gitignore
-echo "notatki_prywatne/" >> .gitignore
+echo "/notatki_prywatne/" >> .gitignore
