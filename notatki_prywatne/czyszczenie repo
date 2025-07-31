@@ -1,3 +1,10 @@
+
+git add .
+git commit -m "Aktualizacja treści"
+git push origin main
+git log --oneline
+
+
 2. Utwórz nową pustą gałąź bez historii:
 bash
 Kopiuj
