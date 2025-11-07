@@ -190,7 +190,7 @@ Zintegrujcie narzędzie z Waszymi scenariuszami IR, wykonajcie testowe wdrożeni
 
 ## 👤 Autor i projekt
 
-**Autor:** [Artur Markiewicz](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=artur-markiewicz)  
+**Autor:** [Artur Markiewicz](www.linkedin.com/in/artur-markiewicz)  
 📬 Mail: [m@rkiewi.cz](mailto:m@rkiewi.cz)  
 📆 Wersja: 1.0 (30.07.2025)
 
